@@ -1,1 +1,2 @@
-Random-Word==1.0.4
+python-twitter==3.5
+python-dotenv==0.10.3
